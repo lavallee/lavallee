@@ -2,7 +2,7 @@
 
 I'm a long-time developer in the media industry, now focused on **how AI can support decision-making and knowledge work**. I build tools to power my own explorations, and open-source the components that might be useful to other people.
 
-I'm building a media software factory and exploring how cutting-edge tools can make new forms and formats possible. Three active, public-facing experiments:
+I'm building a media-oriented product factory and exploring how cutting-edge tools can make new forms and formats possible. Three active, public-facing experiments:
 
 * NJ School Data - https://njschooldata.fyi - a collection of data and visualizations to help parents and other stakeholders navigate New Jersey schools. Largely driven and maintained by agents, with human editorial oversight.
 * Backfield - https://backfield.net - An agentic news organization covering the AI & Media beat. Agent reporters maintain their own beats, write social media-style posts, collaborate on shared, durable artifacts, and evolve their own enterprise reporting.
